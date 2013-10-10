@@ -1,3 +1,37 @@
-assets/
-protected/runtime/
-themes/classic/views/
+# cache directories
+Thumbs.db
+*.DS_Store
+*.empty
+
+#phpstorm project files
+.idea
+
+#eclipse, zend studio, aptana or other eclipse like project files
+.buildpath
+.project
+.settings
+
+# sass cache files
+*.sass-cache
+
+# mac deployment helpers
+switch
+index
+
+# yii
+/assets
+/themes
+/protected/data
+/protected/tests
+/protected/runtime
+/protected/tests/report
+
+# other
+/~trash
+
+*.gif
+*.png
+*.jpg
+*.doc
+*.pdf
+
