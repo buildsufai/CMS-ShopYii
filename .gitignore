@@ -21,7 +21,6 @@ index
 # yii
 /assets
 /themes
-/protected/data
 /protected/tests
 /protected/runtime
 /protected/tests/report
